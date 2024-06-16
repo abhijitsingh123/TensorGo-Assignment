@@ -6,11 +6,11 @@
 So, these are the steps to setup and run this web application:<br/>
 <br/>
 <h4>Setup<br/></h4>
-Put your GOOGLE_CLIENT_ID,
-         GOOGLE_CLIENT_SECRET,
-         GOOGLE_CALLBACK_URL,
-         FRILL_API_KEY, MONGO_URI,
-         SESSION_SECRET,
+Put your GOOGLE_CLIENT_ID,<br/>
+         GOOGLE_CLIENT_SECRET,<br/>
+         GOOGLE_CALLBACK_URL,<br/>
+         FRILL_API_KEY, MONGO_URI,<br/>
+         SESSION_SECRET,<br/>
          PORT  in .env in the backend<br/>
 <br/>
 Steps to run:<br/>
