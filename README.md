@@ -13,7 +13,7 @@ Put your:
          FRILL_API_KEY,<br/>
          MONGO_URI,<br/>
          SESSION_SECRET,<br/>
-         PORT  in .env 
+         PORT  in .env <br/>
 in the backend<br/>
 <br/>
 Steps to run:<br/>
