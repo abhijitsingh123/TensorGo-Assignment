@@ -16,7 +16,7 @@ Put your:
          PORT  in .env <br/>
 in the backend<br/>
 <br/>
-Steps to run:<br/>
+<h4>Steps to run:</h4><br/>
 In the terminal<br/>
 1. cd frontend<br/>
 2. npm i<br/>
