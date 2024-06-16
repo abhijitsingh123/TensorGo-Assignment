@@ -5,7 +5,7 @@
 <br/>
 So, these are the steps to setup and run this web application:<br/>
 <br/>
-<h4>Setup<br/>
+<h4>Setup<br/></h4>
 Put your GOOGLE_CLIENT_ID,
          GOOGLE_CLIENT_SECRET,
          GOOGLE_CALLBACK_URL,
@@ -22,11 +22,11 @@ In another terminal<br/>
 4. cd backend<br/>
 5. install necessary libraries or packages like Axios, cors, express, express-session, passport, passport-google-oauth20 and nodemon in the command line<br/>
 6. check for the scripts in the package.json file<br/>
-7. run the command: npm run dev (will start the backend server using nodemon on the port 5000(default)<br/></h4>
+7. run the command: npm run dev (will start the backend server using nodemon on the port 5000(default)<br/>
 
 <h2>Demonstration</h2>
 <br/>
-<h4>1. On the application homepage, you will see a Google login button. <br/>
+1. On the application homepage, you will see a Google login button. <br/>
 2. Click the Google login button to initiate the OAuth authentication flow.<br/>
 3. A Google login window will appear. Sign in with your Google credentials.<br/>
 4. Upon successful login, you will be redirected back to the application, and your authentication token will be stored.<br/>
@@ -43,4 +43,3 @@ In another terminal<br/>
 15. Ensure that the feedback you submitted is also reflected on Frill.co.<br/>
 16. Log in to your Frill.co account and navigate to the feedback section to verify the feedback data.<br/>
 17. Check for the feedback categories, ratings, and comments that match what was submitted through your platform.<br/>
-</h4>
